@@ -9,6 +9,6 @@ int main(){
   for (int j=0; j<y; j++){
     cin >> x [j];
   }
-  cout << funzione (x,y)<< endl;
+  cout << funzione (x,y) << endl;
   return 0;
 }
