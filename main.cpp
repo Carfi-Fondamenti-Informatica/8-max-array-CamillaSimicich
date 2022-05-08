@@ -7,7 +7,7 @@ int main(){
   cin >> y;
   float x[y];
   for (int j=0; j<y; j++){
-  cin >> x [j];
+    cin >> x [j];
   }
   cout << funzione (x,y)<< endl;
   return 0;
