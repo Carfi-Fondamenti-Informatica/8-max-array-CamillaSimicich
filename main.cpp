@@ -5,10 +5,10 @@ using namespace std;
 int main(){
   int y;
   cin >> y;
-  float x[y];
+  float x [y];
   for (int j=0; j<y; j++){
     cin >> x [j];
   }
-  cout << funzione (x,y) << endl;
+  cout << calcolo (x,y) << endl;
   return 0;
 }
