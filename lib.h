@@ -3,4 +3,4 @@
 
 #endif //INFO_LIB_H
 
-float funzione (float [], int);
+float calcolo (float [], int);
